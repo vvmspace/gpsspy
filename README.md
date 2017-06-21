@@ -1,2 +1,1 @@
-# Open Source repository for Russian GPS Market
-http://gpsspy.ru
+# Project cancelled cause of restrictions in Russian Federation
